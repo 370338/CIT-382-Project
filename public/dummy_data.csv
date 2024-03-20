@@ -1,0 +1,76 @@
+Person's Name,Age,Income,State,Job,Number of Kids,Gender
+Person_1,58,64211.36,Illinois,Engineer,5,Other
+Person_2,25,70806.93,Illinois,Artist,0,Male
+Person_3,19,105069.94,Illinois,Doctor,1,Other
+Person_4,65,44638.87,New York,Engineer,2,Other
+Person_5,35,61974.36,New York,Engineer,0,Other
+Person_6,33,90315.77,California,Artist,0,Other
+Person_7,32,93163.83,Texas,Teacher,5,Male
+Person_8,26,91519.29,Illinois,Doctor,4,Other
+Person_9,65,36426.23,Illinois,Doctor,1,Male
+Person_10,24,87148.05,Texas,Lawyer,2,Other
+Person_11,61,78072.59,Texas,Lawyer,2,Other
+Person_12,65,52032.98,New York,Engineer,4,Male
+Person_13,52,71603.42,California,Engineer,1,Other
+Person_14,23,54295.3,Florida,Teacher,5,Female
+Person_15,55,113285.21,Illinois,Lawyer,2,Male
+Person_16,45,91934.58,Illinois,Artist,1,Other
+Person_17,20,49765.37,New York,Teacher,5,Male
+Person_18,19,59185.45,California,Artist,5,Male
+Person_19,23,99148.22,Florida,Artist,2,Male
+Person_20,31,35034.42,Illinois,Artist,4,Male
+Person_21,32,103962.23,California,Artist,3,Other
+Person_22,50,102454.12,New York,Doctor,2,Other
+Person_23,56,66104.83,Florida,Engineer,0,Male
+Person_24,19,35956.97,Illinois,Teacher,0,Female
+Person_25,53,112182.25,Illinois,Engineer,5,Female
+Person_26,30,81046.2,Florida,Artist,3,Other
+Person_27,63,94612.28,Florida,Engineer,2,Female
+Person_28,59,49136.39,Florida,Teacher,0,Other
+Person_29,62,74930.81,Texas,Engineer,0,Male
+Person_30,52,109621.48,Florida,Doctor,2,Other
+Person_31,44,87856.67,Texas,Lawyer,1,Male
+Person_32,32,42858.44,Illinois,Doctor,5,Other
+Person_33,46,42566.73,New York,Engineer,2,Male
+Person_34,55,97049.01,Texas,Doctor,1,Male
+Person_35,35,78507.96,California,Lawyer,5,Female
+Person_36,18,97231.24,California,Engineer,3,Other
+Person_37,28,68559.04,New York,Engineer,4,Male
+Person_38,62,82517.96,New York,Lawyer,5,Female
+Person_39,45,62579.68,California,Doctor,3,Female
+Person_40,39,119759.32,Florida,Lawyer,4,Female
+Person_41,35,42449.86,California,Doctor,0,Female
+Person_42,27,74416.43,California,Doctor,0,Male
+Person_43,31,98020.39,California,Engineer,0,Other
+Person_44,39,107499.26,Texas,Engineer,5,Male
+Person_45,24,43755.72,New York,Artist,1,Other
+Person_46,23,44398.38,Texas,Doctor,4,Female
+Person_47,42,91243.31,New York,Teacher,0,Other
+Person_48,24,83676.81,New York,Teacher,2,Other
+Person_49,40,64629.06,Florida,Artist,4,Other
+Person_50,40,83629.96,Illinois,Teacher,4,Female
+Person_51,56,72124.49,New York,Teacher,1,Male
+Person_52,34,52627.27,Texas,Engineer,3,Female
+Person_53,20,79790.33,New York,Artist,1,Male
+Person_54,64,114818.78,New York,Doctor,0,Male
+Person_55,47,91225.51,California,Lawyer,2,Other
+Person_56,52,40309.66,Florida,Lawyer,2,Other
+Person_57,25,109630.96,Texas,Engineer,0,Male
+Person_58,42,97579.0,New York,Artist,2,Male
+Person_59,23,99173.89,Illinois,Doctor,1,Female
+Person_60,53,60615.79,California,Engineer,5,Female
+Person_61,36,56415.01,Florida,Doctor,1,Male
+Person_62,58,44234.2,Florida,Doctor,5,Male
+Person_63,57,30292.08,California,Engineer,0,Female
+Person_64,41,94988.29,Florida,Teacher,2,Other
+Person_65,54,94771.26,Illinois,Engineer,4,Other
+Person_66,30,117469.93,California,Teacher,3,Other
+Person_67,63,98576.6,California,Teacher,4,Female
+Person_68,22,75691.35,New York,Doctor,5,Male
+Person_69,20,39576.97,California,Doctor,1,Female
+Person_70,60,86277.02,California,Teacher,1,Male
+Person_71,32,105750.24,New York,Lawyer,1,Male
+Person_72,36,75689.66,Illinois,Lawyer,1,Female
+Person_73,23,47902.0,California,Doctor,3,Female
+Person_74,32,63652.25,Illinois,Artist,0,Female
+Person_75,24,44539.41,Illinois,Doctor,1,Female
